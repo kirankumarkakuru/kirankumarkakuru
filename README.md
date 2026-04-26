@@ -59,7 +59,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **10+ ye
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/kirankumar-kakuru/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/kirankumarkakuru/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
