@@ -2,7 +2,7 @@
   <img src="https://github.com/kirankumarkakuru/kirankumarkakuru/blob/main/BANNER.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm <span style="color: #ADD8E6;">Kiran Kumar Kakuru</span>
+# 👋 Hi, I'm ![Kiran Kumar](https://img.shields.io/badge/Kiran%20Kumar%20Kakuru-lightblue?style=for-the-badge)
 
 ### Senior Consultant Infrastructure Management  
 🚀 DevOps • Infrastruture • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
