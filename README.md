@@ -7,7 +7,7 @@
 ### Senior Consultant Infrastructure Management  
 🚀 DevOps • Infrastruture • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kiran-kumar-kakuru-853834193/)
 [![Gmail](https://img.shields.io/badge/Email-kiranwls6@gmail.com-red?logo=gmail&style=flat)](mailto:kiranwls6@gmail.com)
 
 ---
