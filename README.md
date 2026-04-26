@@ -50,9 +50,9 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **10+ ye
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=kirankumar-kakuru&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=kirankumarkakuru&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=kirankumarkakuru&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kirankumar-kakuru&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kirankumarkakuru&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
