@@ -5,7 +5,8 @@
 # 👋 Hi, I'm <i>Kiran Kumar Kakuru</i>
 
 ### Senior Consultant Infrastructure Management  
-🚀 DevOps • Infrastruture • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker | Ansible | Git| Linux
+### 🚀 DevOps Engineer • Infrastructure • Cloud Engineer
+### ☁️ AWS | CI/CD | Kubernetes | Terraform | Docker | Ansible | Git| Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kiran-kumar-kakuru-853834193/)
 [![Gmail](https://img.shields.io/badge/Email-kiranwls6@gmail.com-red?logo=gmail&style=flat)](mailto:kiranwls6@gmail.com)
